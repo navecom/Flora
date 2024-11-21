@@ -32,7 +32,7 @@ export default function TabTwoScreen() {
         <ThemedText style={styles.description}>
         1. Buka aplikasi: Setelah membuka aplikasi, pengguna akan melihat daftar tanaman.{'\n'}
         {'\n'}
-        2. Gunakan Filter: Klik gambar yang tertera dihalaman untuk memilih tanaman yang diinginkan.{'\n'}
+        2. Gunakan Filter: Klik ikon filter di pojok kanan atas untuk memilih tanaman yang diinginkan.{'\n'}
         {'\n'}
         3. Lihat Detail: Klik pada "Gambar yang sudah ada dihalaman? Klik aja!" untuk melihat detail tanaman secara lengkap.
         </ThemedText>
